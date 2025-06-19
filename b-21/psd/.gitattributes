@@ -1,0 +1,8 @@
+Kawalek[[:space:]]terenu.psd filter=lfs diff=lfs merge=lfs -text
+Las-Recovered.psd filter=lfs diff=lfs merge=lfs -text
+Las.psd filter=lfs diff=lfs merge=lfs -text
+Teren[[:space:]]Czysty[[:space:]]-[[:space:]]Skrzyżowanie[[:space:]]Dróg.psd filter=lfs diff=lfs merge=lfs -text
+Teren[[:space:]]Czysty[[:space:]]1.psd filter=lfs diff=lfs merge=lfs -text
+Teren[[:space:]]Czysty[[:space:]]2.psd filter=lfs diff=lfs merge=lfs -text
+Teren[[:space:]]Czysty[[:space:]]3.psd filter=lfs diff=lfs merge=lfs -text
+Wzorzec[[:space:]]Geomorficznej[[:space:]]Siatki.psd filter=lfs diff=lfs merge=lfs -text
